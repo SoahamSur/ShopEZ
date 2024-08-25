@@ -1,5 +1,3 @@
-Here's a README for the ShopEZ project:
-
 ---
 
 # ShopEZ
