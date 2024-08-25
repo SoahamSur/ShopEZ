@@ -1,5 +1,5 @@
----
 ![Banner](https://pbs.twimg.com/profile_banners/1669056908463083520/1724575734/1080x360)
+
 # ShopEZ
 
 **ShopEZ** is an innovative app designed to support grassroots and suburban shopkeepers by simplifying their transaction processes and helping them efficiently track their earnings. This app aims to modernize the traditional "udharii" system, where shopkeepers extend credit to customers, by digitizing the khata (ledger) process.
@@ -25,35 +25,27 @@ The conventional pen-and-paper method is not only tedious but also prone to erro
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-repo/ShopEZ.git
-   ```
+
 2. **Navigate to the Project Directory:**
    ```bash
-   cd ShopEZ
-   ```
+    cd ShopEZ
 3. **Install Dependencies:**
-   - For the Flutter frontend:
-     ```bash
-     flutter pub get
-     ```
-   - For the Flask backend:
-     ```bash
-     pip install -r requirements.txt
-     ```
 
-4. **Set Up Supabase:**
-   - Create a Supabase project and configure the database.
-   - Add the necessary environment variables for Supabase in the Flutter app.
+  For the Flutter frontend:
+  ```bash
+    flutter pub get
+  ```
+  For the Flask backend:
+  ```bash
+    pip install -r requirements.txt
+```
+ 4. **Set Up Supabase:**
+    Create a Supabase project and configure the database.
+    Add the necessary environment variables for Supabase in the Flutter app.
 
-5. **Run the Application:**
-   - Start the Flask server:
-     ```bash
-     python app.py
-     ```
-   - Run the Flutter app:
-     ```bash
-     flutter run
-     ```
----
+  5.**Start the Flask server:**
+  
+  6.**Run the Flutter app:**
 
 ## Unique Selling Points (USPs)
 
