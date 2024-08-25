@@ -53,6 +53,21 @@ The conventional pen-and-paper method is not only tedious but also prone to erro
      ```bash
      flutter run
      ```
+---
+
+## Unique Selling Points (USPs)
+
+- **Empowering Grassroots Shopkeepers:** ShopEZ is tailored specifically for grassroots and suburban shopkeepers who often rely on traditional methods for tracking transactions. The app empowers them by providing a simple, yet effective digital solution that eliminates the hassle of maintaining paper ledgers.
+
+- **Digitization of the "Udharii" System:** By transforming the manual khata system into a digital format, ShopEZ ensures that every transaction is accurately recorded and easily accessible. This reduces the chances of errors and mismanagement, which are common with paper-based systems.
+
+- **SMS Reminders for Dues:** One of the standout features of ShopEZ is the ability for shopkeepers to send SMS reminders to customers who have outstanding dues. This not only helps in timely collection but also fosters better customer relationships by providing gentle and professional reminders.
+
+- **Real-time Item Recognition:** Leveraging YOLOv8, the app offers real-time item recognition, making billing faster and more accurate. This feature is particularly beneficial in busy shops where quick transactions are crucial.
+
+- **User-Friendly Interface:** ShopEZ is designed with a simple and intuitive interface, making it easy for shopkeepers of all tech-savviness levels to adopt and use the app effectively.
+
+--- 
 ## WorkFlow
 ![Banner](https://i.imgur.com/LfWuvKB.png)
 
