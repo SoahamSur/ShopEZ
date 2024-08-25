@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "561180865621",
+    "firebase_url": "https://byteme069-c093c-default-rtdb.firebaseio.com",
+    "project_id": "byteme069-c093c",
+    "storage_bucket": "byteme069-c093c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561180865621:android:9ff5eb04e30655323310dc",
+        "android_client_info": {
+          "package_name": "login.com.my_login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8rVr5sX8iQyVxVB638cfZfpljgMfiMOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
