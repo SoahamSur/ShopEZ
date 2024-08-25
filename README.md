@@ -1,5 +1,5 @@
 ---
-
+![Banner]([https://pbs.twimg.com/profile_banners/1669056908463083520/1719658017/1500x500](https://pbs.twimg.com/profile_banners/1669056908463083520/1724575734/1080x360))
 # ShopEZ
 
 **ShopEZ** is an innovative app designed to support grassroots and suburban shopkeepers by simplifying their transaction processes and helping them efficiently track their earnings. This app aims to modernize the traditional "udharii" system, where shopkeepers extend credit to customers, by digitizing the khata (ledger) process. The conventional pen-and-paper method is not only tedious but also prone to errors. In a world where smartphones are ubiquitous, ShopEZ offers a digital solution that ensures accuracy, reduces manual effort, and enhances the overall billing process.
@@ -13,7 +13,7 @@
   
 ## Tech Stack
 
-- **Frontend:** Flutter
+- **Frontend:** Flutter, Dart
 - **Backend:** Flask, Python
 - **Database:** Supabase
 - **Machine Learning:** YOLOv8 (via OpenCV)
