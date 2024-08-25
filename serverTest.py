@@ -59,6 +59,3 @@ def predict():
 
 if __name__ == '__main__':
     app.run(host= '10.10.46.9', port=5000, debug=True)
-# $ curl -X POST http://127.0.0.1:5000/predict -H "Content-Type: multipart/form-data" -F "images=@TESTING.zip"
-# curl -X POST http://192.168.29.96:5000/predict -H "Content-Type: multipart/form-data" -F "images=@ForTest.zip"
-# http:// 10.10.46.9:5000/predict
