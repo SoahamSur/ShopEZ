@@ -2,7 +2,8 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1669056908463083520/1724575734/1080x360)
 # ShopEZ
 
-**ShopEZ** is an innovative app designed to support grassroots and suburban shopkeepers by simplifying their transaction processes and helping them efficiently track their earnings. This app aims to modernize the traditional "udharii" system, where shopkeepers extend credit to customers, by digitizing the khata (ledger) process. The conventional pen-and-paper method is not only tedious but also prone to errors. In a world where smartphones are ubiquitous, ShopEZ offers a digital solution that ensures accuracy, reduces manual effort, and enhances the overall billing process.
+**ShopEZ** is an innovative app designed to support grassroots and suburban shopkeepers by simplifying their transaction processes and helping them efficiently track their earnings. This app aims to modernize the traditional "udharii" system, where shopkeepers extend credit to customers, by digitizing the khata (ledger) process.
+The conventional pen-and-paper method is not only tedious but also prone to errors. In a world where smartphones are ubiquitous, ShopEZ offers a digital solution that ensures accuracy, reduces manual effort, and enhances the overall billing process.
 
 ## Features
 
@@ -52,12 +53,16 @@
      ```bash
      flutter run
      ```
+## DataFlow
 
 ## Usage
 
 - **Item Recognition:** Capture items using the app's camera, and YOLOv8 will automatically identify them and add them to the bill.
 - **Customer Transactions:** Add, update, and track customer transactions, including dues and payments.
 - **Reports:** Generate daily, weekly, or monthly reports to analyze shop earnings and customer dues.
+
+## Future Scope Of Work
+
 
 ## Contributing
 
