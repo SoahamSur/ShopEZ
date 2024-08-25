@@ -53,7 +53,8 @@ The conventional pen-and-paper method is not only tedious but also prone to erro
      ```bash
      flutter run
      ```
-## DataFlow
+## WorkFlow
+![Banner](https://i.imgur.com/LfWuvKB.png)
 
 ## Usage
 
@@ -62,7 +63,7 @@ The conventional pen-and-paper method is not only tedious but also prone to erro
 - **Reports:** Generate daily, weekly, or monthly reports to analyze shop earnings and customer dues.
 
 ## Future Scope Of Work
-
+![Banner](https://i.imgur.com/3OK6vSv.png)
 
 ## Contributing
 
