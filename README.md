@@ -14,7 +14,7 @@ The conventional pen-and-paper method is not only tedious but also prone to erro
   
 ## Tech Stack
 
-- **Frontend:** Flutter, Dart
+- **Frontend:** Flutter, Dart, Figma
 - **Backend:** Flask, Python
 - **Database:** Supabase
 - **Machine Learning:** YOLOv8 (via OpenCV)
